@@ -1,11 +1,12 @@
 #
 
-# <p align="center">  <img src="kurapika.gif">
+# <p align="center" width="750" > <img src="kurapika.gif">
 
  **Olá! Me Chamo Leonardo** 👾 
 
-Sou estudante de **análise e desenvolvimento de sistemas**, atualmente estou desenvolvendo minhas habilidades por meio de projetos pessoais, atividades da faculdade e estudos constantes.
-Neste perfil compartilho minha evolução, projetos acadêmicos, estudos e aplicações desenvolvidas ao longo da minha jornada.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e utilizo este espaço para documentar minha trajetória na programação.
+
+Aqui você encontrará projetos, desafios e aprendizados que fazem parte da minha evolução como desenvolvedor.
 
 ##  Onde me encontrar
 
