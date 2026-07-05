@@ -4,9 +4,7 @@
 
  **Olá! Me Chamo Leonardo** 👾 
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e utilizo este espaço para documentar minha trajetória na programação.
-
-Aqui você encontrará projetos, desafios e aprendizados que fazem parte da minha evolução como desenvolvedor.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e uso este perfil para compartilhar o que venho aprendendo na prática, com projetos da faculdade, estudos e alguns experimentos de programação.
 
 ##  Onde me encontrar
 
