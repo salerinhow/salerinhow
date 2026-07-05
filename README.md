@@ -14,6 +14,7 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> em constant
 Compartilho aqui minha jornada através de projetos da faculdade, estudos pessoais e experimentos de programação.
 </p>
 
+---
 
 ## 🚀 Sobre mim
 
