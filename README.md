@@ -37,6 +37,7 @@ Sou movido por curiosidade na área de tecnologia, buscando evoluir constantemen
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux,mysql&theme=dark"/>
 </p>
 
+---
 
 ## 📊 Estatísticas do GitHub
 
