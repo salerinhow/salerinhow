@@ -1,6 +1,6 @@
 #
 
-#  <img src="kurapika.gif">
+# <p align="center">  <img src="kurapika.gif">
 
  **Olá! Me Chamo Leonardo** 👾 
 
@@ -10,7 +10,7 @@ Atualmente estou desenvolvendo minhas habilidades por meio de projetos pessoais,
 
 Neste perfil compartilho minha evolução, projetos acadêmicos, estudos e aplicações desenvolvidas ao longo da minha jornada.
 
-## 🌐 Onde me encontrar
+##  Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/salerinhow">
