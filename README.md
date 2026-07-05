@@ -4,10 +4,7 @@
 
  **Olá! Me Chamo Leonardo** 👾 
 
-Sou Estudante de Análise e Desenvolvimento de Sistemas.
-
-Atualmente estou desenvolvendo minhas habilidades por meio de projetos pessoais, atividades da faculdade e estudos constantes.
-
+Sou estudante de **análise e desenvolvimento de sistemas**, atualmente estou desenvolvendo minhas habilidades por meio de projetos pessoais, atividades da faculdade e estudos constantes.
 Neste perfil compartilho minha evolução, projetos acadêmicos, estudos e aplicações desenvolvidas ao longo da minha jornada.
 
 ##  Onde me encontrar
@@ -38,7 +35,7 @@ Neste perfil compartilho minha evolução, projetos acadêmicos, estudos e aplic
 
 ### ⚙️ Ferramentas 
 
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux,mysql&theme=dark"/>
 </p>
 
 
@@ -47,13 +44,6 @@ Neste perfil compartilho minha evolução, projetos acadêmicos, estudos e aplic
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=salerinhow&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 </p>
-
-##  Objetivos
-
-- 🧠 Escrever códigos cada vez mais limpos, organizados e eficientes.
-- ⚙️ Dominar ferramentas utilizadas no mercado de tecnologia.
-- 🏗️ Evoluir em arquitetura de software e design de sistemas.
-- 💡 Desenvolver projetos completos para meu portfólio.
 
 
 
