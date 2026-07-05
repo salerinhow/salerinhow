@@ -18,7 +18,6 @@ Neste perfil compartilho minha evolução, projetos acadêmicos, estudos e aplic
   </a>
 </p>
 
----
 
 
 ### 💻 Linguagens
@@ -56,7 +55,7 @@ Neste perfil compartilho minha evolução, projetos acadêmicos, estudos e aplic
 - 🏗️ Evoluir em arquitetura de software e design de sistemas.
 - 💡 Desenvolver projetos completos para meu portfólio.
 
----
+
 
 
 
