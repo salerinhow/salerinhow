@@ -4,9 +4,6 @@
   <img src="kurapika.gif" width="800"/>
 </p>
 
----
-
-
 <h1 align="center">👾 Olá! Me chamo Leonardo</h1>
 
 <p align="center">
@@ -17,13 +14,11 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> em constant
 Compartilho aqui minha jornada através de projetos da faculdade, estudos pessoais e experimentos de programação.
 </p>
 
----
 
 ## 🚀 Sobre mim
 
 Sou focado em aprendizado prático, sempre buscando transformar teoria em código. Gosto de explorar novas tecnologias, resolver problemas e evoluir através de projetos reais.
 
----
 
 ## 💻 Tecnologias que uso
 
