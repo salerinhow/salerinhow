@@ -52,11 +52,14 @@ Sou movido por curiosidade na área de tecnologia, buscando evoluir constantemen
 </p>
 
 ---
+
 <h2>🌐 Onde me encontrar</h2>
 
-<a href="https://github.com/salerinhow">
-  <img src="https://img.shields.io/badge/GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/829118893582843924">
-  <img src="https://img.shields.io/badge/Discord-EC4899?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+
+  <a href="https://github.com/salerinhow" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/829118893582843924" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Discord-EC4899?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
