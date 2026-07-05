@@ -4,7 +4,7 @@
   <a href="#stats"><img border="0" src="https://img.shields.io/badge/ESTATÍSTICAS-EC4899?style=for-the-badge"></a>
 </p>
 
-<h1 align="center">👾 Leonardo </h1>
+<h1 align="center">👾 Olá! Me Chamo Leonardo </h1>
 
 <p align="center">
   <img src="kurapika.gif" width="900"/>
