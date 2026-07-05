@@ -1,8 +1,11 @@
 #
 
 <p align="center">
-  <img src="kurapika.gif" width="850"/>
+  <img src="kurapika.gif" width="800"/>
 </p>
+
+---
+
 
 <h1 align="center">👾 Olá! Me chamo Leonardo</h1>
 
@@ -20,17 +23,15 @@ Compartilho aqui minha jornada através de projetos da faculdade, estudos pessoa
 
 Sou movido por curiosidade na área de tecnologia, buscando evoluir constantemente ao explorar novas ferramentas, resolver problemas e construir projetos que fortalecem minhas habilidades.
 
-## 💻 Tecnologias que uso
+---
 
-### 🧠 Linguagens 
+
+### 💻 Tecnologias que uso
+
 <p align="center">
 <img src="https://img.shields.io/badge/C-EC4899?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🌐 Desenvolvimento Web
-<p align="center">
 <img src="https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -48,7 +49,7 @@ Sou movido por curiosidade na área de tecnologia, buscando evoluir constantemen
 </p>
 
 
-##  Onde me encontrar
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/salerinhow">
