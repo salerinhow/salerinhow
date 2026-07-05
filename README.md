@@ -28,20 +28,20 @@ Sou focado em aprendizado prático, sempre buscando transformar teoria em códig
 ## 💻 Tecnologias que uso
 
 ### 🧠 Linguagens de programação
-<p align="center">
+
 <img src="https://img.shields.io/badge/C-EC4899?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🌐 Desenvolvimento Web
-<p align="center">
+
 <img src="https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### ⚙️ Ferramentas e ambiente
-<p align="center">
+
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux,mysql&theme=dark"/>
 </p>
 
