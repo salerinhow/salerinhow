@@ -2,7 +2,6 @@
   <a href="#sobre"><img border="0" src="https://img.shields.io/badge/SOBRE%20MIM-EC4899?style=for-the-badge"></a>
   <a href="#tecnologias"><img border="0" src="https://img.shields.io/badge/SKILLS%20%26%20TECH-EC4899?style=for-the-badge"></a>
   <a href="#stats"><img border="0" src="https://img.shields.io/badge/ESTATÍSTICAS-EC4899?style=for-the-badge"></a>
-  <a href="#contato"><img border="0" src="https://img.shields.io/badge/CONTATO-EC4899?style=for-the-badge"></a>
 </p>
 
 <h1 align="center">Leonardo 👾</h1>
