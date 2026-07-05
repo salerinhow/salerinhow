@@ -18,8 +18,7 @@ Compartilho aqui minha jornada através de projetos da faculdade, estudos pessoa
 
 ## 🚀 Sobre mim
 
-Tenho interesse em tecnologia e gosto de aprender criando, testando ideias e buscando melhorar minhas habilidades a cada novo projeto.
-
+Sou movido por curiosidade na área de tecnologia, buscando evoluir constantemente ao explorar novas ferramentas, resolver problemas e construir projetos que fortalecem minhas habilidades.
 
 ## 💻 Tecnologias que uso
 
