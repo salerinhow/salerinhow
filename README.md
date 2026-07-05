@@ -8,7 +8,7 @@
 <h1 align="center">👾 Olá! Me chamo Leonardo</h1>
 
 <p align="center">
-Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> em constante evolução na área de tecnologia.
+Estudante de **Análise e Desenvolvimento de Sistemas**
 </p>
 
 <p align="center">
