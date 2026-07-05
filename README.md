@@ -34,7 +34,7 @@ Sou movido por curiosidade na área de tecnologia, buscando evoluir constantemen
 
 ### ⚙️ Ferramentas e ambiente
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,mysql&theme=dark"/>
 </p>
 
 ---
