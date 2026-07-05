@@ -1,7 +1,7 @@
 #
 
 <p align="center">
-  <img src="kurapika.gif" width="800"/>
+  <img src="kurapika.gif" width="900"/>
 </p>
 
 
