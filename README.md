@@ -1,7 +1,7 @@
 #
 
 <p align="center">
-  <img src="kurapika.gif" width="800"/>
+  <img src="kurapika.gif" width="850"/>
 </p>
 
 <h1 align="center">👾 Olá! Me chamo Leonardo</h1>
