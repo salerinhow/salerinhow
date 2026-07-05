@@ -4,6 +4,8 @@
   <img src="kurapika.gif" width="800"/>
 </p>
 
+---
+
 
 <h1 align="center">👾 Olá! Me chamo Leonardo</h1>
 
@@ -17,7 +19,7 @@ Compartilho aqui minha jornada através de projetos da faculdade, estudos pessoa
 
 ---
 
-##  Sobre mim
+## 🚀 Sobre mim
 
 Sou focado em aprendizado prático, sempre buscando transformar teoria em código. Gosto de explorar novas tecnologias, resolver problemas e evoluir através de projetos reais.
 
@@ -26,20 +28,20 @@ Sou focado em aprendizado prático, sempre buscando transformar teoria em códig
 ## 💻 Tecnologias que uso
 
 ### 🧠 Linguagens de programação
-
+<p align="center">
 <img src="https://img.shields.io/badge/C-EC4899?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🌐 Desenvolvimento Web
-
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### ⚙️ Ferramentas e ambiente
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux,mysql&theme=dark"/>
 </p>
 
@@ -51,18 +53,13 @@ Sou focado em aprendizado prático, sempre buscando transformar teoria em códig
 </p>
 
 
-##  Onde me encontrar
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/salerinhow">
     <img src="https://img.shields.io/badge/GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-
-
-
-
 <!--
 **salerinhow/salerinhow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
