@@ -1,8 +1,7 @@
 #
 
-# <p align="center">
-  <img src="kurapika.gif">
-</p>
+#  <img src="kurapika.gif">
+
  **Olá! Me Chamo Leonardo** 👾 
 
 Sou Estudante de Análise e Desenvolvimento de Sistemas.
