@@ -1,6 +1,6 @@
 #
 
-# <p align="center">  <img src="kurapika.gif" width="750"/>
+# <p align="center">  <img src="kurapika.gif" width="800"/>
 
  **Olá! Me Chamo Leonardo** 👾 
 
