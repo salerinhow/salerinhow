@@ -46,7 +46,7 @@ Sou movido por curiosidade na área de tecnologia, buscando evoluir constantemen
 
 ---
 
-<h2 id="stats">📊 Estatísticas do GitHub</h2>
+<h2 id="stats">📊 Estatísticas</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=salerinhow&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
