@@ -18,12 +18,12 @@ Compartilho aqui minha jornada através de projetos da faculdade, estudos pessoa
 
 ## 🚀 Sobre mim
 
-Sou focado em aprendizado prático, sempre buscando transformar teoria em código. Gosto de explorar novas tecnologias, resolver problemas e evoluir através de projetos reais.
+Tenho interesse em tecnologia e gosto de aprender criando, testando ideias e buscando melhorar minhas habilidades a cada novo projeto.
 
 
 ## 💻 Tecnologias que uso
 
-### 🧠 Linguagens de programação
+### 🧠 Linguagens 
 <p align="center">
 <img src="https://img.shields.io/badge/C-EC4899?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=javascript&logoColor=white"/>
