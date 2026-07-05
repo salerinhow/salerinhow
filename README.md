@@ -32,7 +32,7 @@ Sou movido por curiosidade na área de tecnologia, buscando evoluir constantemen
 <img src="https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ⚙️ Ferramentas e ambiente
+### ⚙️ Ferramentas
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,mysql&theme=dark"/>
 </p>
